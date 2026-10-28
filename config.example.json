@@ -1,0 +1,11 @@
+{
+  "interval_seconds": 600,
+  "products": [
+    {
+      "productId": 244572190,
+      "colors": ["800"],
+      "sizes": [],
+      "notify_on": ["restock", "price_drop"]
+    }
+  ]
+}

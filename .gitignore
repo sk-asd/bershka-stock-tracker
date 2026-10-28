@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.env
+.env.*
+config.local.json
+config.json
+state*.json
+state*.json.tmp
+*.local.json
+*.log
+.coverage
